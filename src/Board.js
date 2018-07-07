@@ -89,11 +89,3 @@ export default class Board extends Component {
     );
   }
 }
-// return (
-//   <div className="board">
-//       <table className="t-board">
-//       <tbody>
-//       Parser(this.drawBoard())
-//       </tbody>
-//       </table>
-//   </div>);
